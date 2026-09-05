@@ -1,10 +1,9 @@
 # EF SET English Certificate 
 
 **Provider:** EF SET  
-**Score:** 68/100  
-**Level:** C1 Advanced  
+**Score:** 72/100  
+**Level:** C2 Proficient  
 **Completed:** 2026
 
-##  Certificate
+[Verify Certificate](https://cert.efset.org/6qWifA)
 
-[View Certificate (PDF)](EF-SET-C1-Certificate.pdf)
